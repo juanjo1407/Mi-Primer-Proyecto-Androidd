@@ -1,4 +1,4 @@
-package com.alosatriani.bienvenida;
+package com.juanjo1407.bienvenida;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
